@@ -1,0 +1,25 @@
+.logo_img{
+    width: 80px;
+    height: 30px;
+}
+
+#navbar >ul >li , #right_side>ul>li{
+border-left: .5px solid lightgray;
+}
+
+.navbar{
+    padding :0px !important;
+}
+
+#right_side>ul>li{
+padding-left:  2px;
+}
+
+.modal.fade{
+    opacity:1;
+  }
+  .modal.fade .modal-dialog {
+     -webkit-transform: translate(0);
+     -moz-transform: translate(0);
+     transform: translate(0);
+  }

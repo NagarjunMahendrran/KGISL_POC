@@ -1,0 +1,13 @@
+#searchmodel{
+    display: inline-flex;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+#searchmodel > button{
+    margin-left: 10px;
+}
+#searchmodel_line_two{
+display: flex;
+margin-top: 10px;
+padding-left: 10px;
+}

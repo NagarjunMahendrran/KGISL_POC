@@ -1,0 +1,15 @@
+#myModal{
+    left:11%;
+}
+
+.modal-header{
+padding: 5px;
+}
+.padd{
+    padding:0px;
+}
+
+#datepicker1{width:180px; margin: 0 20px 20px 20px;}
+#datepicker1 > span:hover{cursor: pointer;}
+#datepicker2{width:180px; margin: 0 20px 20px 20px;}
+#datepicker2 > span:hover{cursor: pointer;}

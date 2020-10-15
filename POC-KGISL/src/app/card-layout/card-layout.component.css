@@ -1,0 +1,54 @@
+.dots{
+    margin-left: 15%;
+}
+
+.card-body {
+    padding:5px !important;
+}
+.card{
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.pink {
+   background-color:  #ffd0d7;
+   border: 1px solid palevioletred;
+   border-left: 3px solid palevioletred;
+}
+
+.blue {
+    background-color:  #d0f6f7;
+    border: 1px solid deepskyblue;
+   border-left: 3px solid deepskyblue;
+ }
+
+ .green {
+    background-color:  #b9f3cb;
+    border: 1px solid greenyellow;
+    border-left: 3px solid greenyellow;
+    
+ }
+ .grey {
+    background-color:  #dfe2e0;  
+    border: 1px solid darkgrey;
+    border-left: 3px solid darkgrey;
+ }
+
+ .sub_title{
+     margin-left: 25%;
+ }
+
+ .status_sub{
+    margin-left: 35%;
+}
+.card-title {
+    margin-bottom: 0px !important;
+}
+.card-text {
+    font-size: 12px !important;
+}
+
+.tags_btn{
+padding: 1px;
+font-size: 10px;
+}
